@@ -13,7 +13,7 @@
             "vk": false
         },
         "github-buttons": {
-            "repo": "azu/JavaScript-Plugin-Architecture",
+            "repo": "kubernetes-fa/docs",
             "types": [
                 "star",
                 "fork"
