@@ -20,5 +20,6 @@
             ],
             "size": "small"
         }
-    }
+    },
+    "styles": {"website": "assets/styles-vazir.css"}
 }
