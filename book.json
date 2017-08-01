@@ -1,0 +1,24 @@
+{
+    "title": "راهنمای کانتینرها",
+    "language": "fa",
+    "author": "گروه کوبرنیتس فارسی",
+    "plugins": ["-sharing", "github-buttons"],
+    "pluginsConfig": {
+        "sharing": {
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "weibo": false,
+            "instapaper": false,
+            "vk": false
+        },
+        "github-buttons": {
+            "repo": "azu/JavaScript-Plugin-Architecture",
+            "types": [
+                "star",
+                "fork"
+            ],
+            "size": "small"
+        }
+    }
+}
